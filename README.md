@@ -14,9 +14,9 @@ I'm Karthikeyan, a passionate Android Developer with expertise in Java ☕, Kotl
 I'm passionate about exploring new technologies, solving challenging problems, and continuously improving my skills. Some of my areas of interest include:
 
 📱 Mobile App development
-💅 UI/UX design
 🔄 Agile methodologies
+💅 UI/UX design
 
 ## 🌱 Let's Connect
 
-If you're interested in working together or want to discuss exciting projects, feel free to reach out to me via email at urs.karthi1994@gmail.com or connect with me on [https://www.linkedin.com/in/karthikeyan-p-133a4b194/](https://www.linkedin.com/in/karthikeyan-p-133a4b194/). Let's create something remarkable together! 🤝
+If you're interested in working together or want to discuss exciting projects, feel free to reach out to me via email at urs.karthi1994@gmail.com or connect with me on [https://www.linkedin.com/in/karthikeyanp07/](https://www.linkedin.com/in/karthikeyanp07/). Let's create something remarkable together! 🤝
